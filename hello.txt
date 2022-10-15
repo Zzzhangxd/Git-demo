@@ -1,10 +1,7 @@
 hello git 22222222
 hello git
-hello git hot-fix
-<<<<<<< HEAD
+hello git hot-ix
 hello git
-=======
->>>>>>> hot-fix
 hello git
 hello git
 hello git
